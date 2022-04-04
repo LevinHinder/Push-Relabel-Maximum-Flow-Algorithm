@@ -1,1 +1,1 @@
-# Push-Relabel-Maximum-Flow-Algorithm
+# Push-Relabel Maximum Flow Algorithm
