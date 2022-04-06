@@ -7,7 +7,7 @@ If you want to learn more about this algorithm, I recommend to read the [Wikiped
 
 
 # Manual
-1. Download the most recent [release](https://github.com/LevinHinder/Push-Relabel-Maximum-Flow-Algorithm/releases) or, clone the whole repository.
+1. Download the most recent [release](https://github.com/LevinHinder/Push-Relabel-Maximum-Flow-Algorithm/releases) or clone the whole repository.
 2. Run *Maximum_Flow.exe*
 3. Create your custom network. To do so, select in the top left corner the element you want to place. Note: you need at least one start and one end node. By clicking on the screen, you can place your desired element. You can rearrange by drag and drop or delete by selecting the element and pressing the `delete` key.
    <p><img src="https://github.com/LevinHinder/Push-Relabel-Maximum-Flow-Algorithm/blob/main/images/manual%201.gif"/></p>
