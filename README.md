@@ -1,12 +1,12 @@
-# Introduction
+## Introduction
 This program simulates the maximum flow through a network with the [push-relabel maximum flow algorithm](https://en.wikipedia.org/wiki/Push%E2%80%93relabel_maximum_flow_algorithm).
 
 
-# Theory
+## Theory
 If you want to learn more about this algorithm, I recommend to read the [Wikipedia article](https://en.wikipedia.org/wiki/Push%E2%80%93relabel_maximum_flow_algorithm). In addition, I have created a [Power Point](https://github.com/LevinHinder/Push-Relabel-Maximum-Flow-Algorithm/blob/main/push%E2%80%93relabel%20maximum%20flow%20algorithm.pptx) with a step by step example.
 
 
-# Manual
+## Manual
 1. Download the most recent [release](https://github.com/LevinHinder/Push-Relabel-Maximum-Flow-Algorithm/releases) or clone the whole repository.
 2. Run *Maximum_Flow.exe*
 3. Create your custom network. To do so, select in the top left corner the element you want to place. Note: you need at least one start and one end node. By clicking on the screen, you can place your desired element. You can rearrange by drag and drop or delete by selecting the element and pressing the `delete` key.
@@ -23,16 +23,16 @@ If you want to learn more about this algorithm, I recommend to read the [Wikiped
 9. To delete all nodes and edges, hit the `clear` button in the bottom right corner.
 
 
-# Bugs
+## Bugs
 This was one of my first big project in C# and it is therefore no wonder that there are some bugs in the code. Note: I do NOT intend to fix them as this would be far too time-consuming because I have done this projects years ago. I am more than happy however, if report or even fix some of the bugs.
 
-## Known Bugs
+### Known Bugs
 - After the simulation, the flow rate of edges can no longer be made smaller than the current flow.
 - Edges can not be deleted after simulation. They must first be moved and can only then be removed.
 - ...
 
 
-# License
+## License
 
     MIT License
 
